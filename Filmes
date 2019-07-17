@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://pastebin.com/raw/KgUbrQMn" group-title="FILMES", ---BRASIL FILMES(D3IV1DI)---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/D3iv1di/icon/master/Filmes" group-title="FILMES", ---BRASIL FILMES(D3IV1DI)---
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_80oZhYkCS1f-Lnt3r97KDotK33ts-Mt6_vqG6viz2O49DPap" group-title="FILMES", Amigos Alienigenas
 http://akr01.azureedge.net/movies/amigosalienigenas-dub-720p.mp4
