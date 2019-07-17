@@ -1,5 +1,6 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="http://bit.ly/2JL3Bif" group-title="FILMES", ---BRASIL FILMES(D3IV1DI)---
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQ_80oZhYkCS1f-Lnt3r97KDotK33ts-Mt6_vqG6viz2O49DPap" group-title="FILMES", Amigos Alienigenas
 http://akr01.azureedge.net/movies/amigosalienigenas-dub-720p.mp4
 #EXTINF:-1 tvg-logo="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTjyAlhY96BARFABSnYNxAnN0YDoEQyVtbVO52o5NpuGultL_ink2998Chr" group-title="FILMES", Como treinar seu Dragão 3
